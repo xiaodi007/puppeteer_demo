@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer_demo",
+  "version": "1.0.0",
+  "description": "use puppeteer in crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaodi007/puppeteer_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaodi007/puppeteer_demo/issues"
+  },
+  "homepage": "https://github.com/xiaodi007/puppeteer_demo#readme",
+  "dependencies": {
+    "puppeteer-core": "^1.19.0"
+  }
+}
