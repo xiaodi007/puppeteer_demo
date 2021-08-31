@@ -17,7 +17,7 @@ docker run \
 ```
 
 ## 2. Installation
-    npm i puppeteer-core
+    npm install
 
 ## 3. introduce how to turn puppeteer into a normal chrome
 
