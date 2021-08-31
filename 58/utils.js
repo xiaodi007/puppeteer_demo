@@ -62,7 +62,7 @@ async function get_page_data(browser, page_url) {
         )
 
     }
-    // 如果获取数据为0
+    // 如果获取数据为0,截屏保存
     if (estate_name_list.length === 0) {
         console.log("error in", page_url);
         await page.screenshot({path: 'err.png', fullPage: true,});
